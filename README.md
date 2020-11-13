@@ -1,5 +1,5 @@
 # Machine-Learning-Models-Full-Lifecycle
- Developing full lifecycle machine learning pipline
+ Developing full lifecycle machine learning pipeline
  
  ## Step 1: Feature Engineering
  
@@ -22,7 +22,7 @@
 
 #### 6. Serving thee Model via REST API
 
-#### 7. Continuous Intergration and Deeploymenet Pipelinees
+#### 7. Continuous Integration and Deployment Pipelines
 
 #### 8. Differential Testing
 

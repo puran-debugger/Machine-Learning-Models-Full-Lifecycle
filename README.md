@@ -27,7 +27,7 @@ __Build Machine Learning Model APIs__: By deploying models, other systems can se
 
 #### 5. Create a Machine Learning Pipeline Application
 
-#### 6. Serving thee Model via REST API
+#### 6. Serving the Model via REST API
 
 #### 7. Continuous Intergration and Deeploymenet Pipelinees
 

@@ -3,13 +3,13 @@
  
 ##  step 1: Gathering Data and Data Preparation
  
- ## Step 1: Data Wrangling(Feature Engineering)
+ ## Step 2: Data Wrangling(Feature Engineering)
  
- ## Step 2: Data Analysis (Feature Selection)
+ ## Step 3: Data Analysis (Feature Selection)
  
- ## Step 3: Train Model and Test Model
+ ## Step 4: Train Model and Test Model
  
- ## Step 4: Deployment of Machine Learning Models
+ ## Step 5: Deployment of Machine Learning Models
  By deploying models, other systems can send data to them and get their predictions, which are in turn populated back into the company systems. Through machine learning model deployment, you and your business can begin to take full advantage of the model you built.
  
  #### 1. Setup and Key Tools
@@ -38,4 +38,5 @@
 
 #### 13. Common Issues found during deployment
  
- ## Step 5: Testing and Monitoring Machine Learning Deployments
+ ## Step 6
+: Testing and Monitoring Machine Learning Deployments

@@ -13,6 +13,8 @@
  ## Step 3: Data Analysis (Feature Selection)
  
  ## Step 4: Train Model and Test Model
+ * train the model using various machine learning algorithms
+ * check for the accuracy of our model by providing a test dataset to it
  
  ## Step 5: Deployment of Machine Learning Models
 __Build Machine Learning Model APIs__: By deploying models, other systems can send data to them and get their predictions, which are in turn populated back into the company systems. Through machine learning model deployment, you and your business can begin to take full advantage of the model you built.

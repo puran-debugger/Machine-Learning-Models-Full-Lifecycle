@@ -1,7 +1,7 @@
 # Machine-Learning-Models-Full-Lifecycle
  Developing full lifecycle machine learning pipline
  
-##  step 1: Gathering Data and Data Preparation
+##  Step 1: Gathering Data and Data Preparation
  
  ## Step 2: Data Wrangling(Feature Engineering)
  
@@ -38,5 +38,4 @@
 
 #### 13. Common Issues found during deployment
  
- ## Step 6
-: Testing and Monitoring Machine Learning Deployments
+ ## Step 6: Testing and Monitoring Machine Learning Deployments

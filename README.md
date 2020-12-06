@@ -1,12 +1,13 @@
 # Machine-Learning-Models-Full-Lifecycle
  Developing full lifecycle machine learning pipline
  
-##  Step 1: Gathering Data and Data Preparation
+##  Step 1: Gathering Data
 * Identify varoious data sources
 * Collect data
 * Integrate the data obtained from different sources
  
- ## Step 2: Data Wrangling(Feature Engineering)
+ ## Step 2:  Data Preparation and Data Wrangling(Feature Engineering)
+* Data exploration:  understand the characteristics, format, and quality of data (find Correlations, general trends, and outliers).
  
  ## Step 3: Data Analysis (Feature Selection)
  

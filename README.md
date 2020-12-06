@@ -12,7 +12,7 @@
  
  ## Step 3: Data Analysis (Feature Selection)
  
- ## Step 4: Train Model and Test Model
+ ## Step 4: Train Model and Test Model ([ML Model](https://github.com/puran-debugger/Python-for-Data-Science-and-Machine-Learning-Bootcamp))
  * train the model using various machine learning algorithms
  * check for the accuracy of our model by providing a test dataset to it
  

@@ -1,11 +1,13 @@
 # Machine-Learning-Models-Full-Lifecycle
  Developing full lifecycle machine learning pipline
  
- ## Step 1: Feature Engineering
+##  step 1: Gathering Data and Data Preparation
  
- ## Step 2: Feature Selection
+ ## Step 1: Data Wrangling(Feature Engineering)
  
- ## Step 3: Modelling Process
+ ## Step 2: Data Analysis (Feature Selection)
+ 
+ ## Step 3: Train Model and Test Model
  
  ## Step 4: Deployment of Machine Learning Models
  By deploying models, other systems can send data to them and get their predictions, which are in turn populated back into the company systems. Through machine learning model deployment, you and your business can begin to take full advantage of the model you built.

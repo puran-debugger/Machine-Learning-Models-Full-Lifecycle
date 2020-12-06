@@ -9,6 +9,7 @@
  ## Step 2:  Data Preparation and Data Wrangling(Feature Engineering)
 * __Data exploration__:  understand the characteristics, format, and quality of data (find Correlations, general trends, and outliers).
 * __Data Wrangling__:  the process of cleaning the data, selecting the variable to use, and transforming the data in a proper format to make it more suitable for analysis in the next step.
+     * Collected data may have issues: Missisng values, duplicated data, invlid data, noise, unbalance data
  
  ## Step 3: Data Analysis (Feature Selection)
  

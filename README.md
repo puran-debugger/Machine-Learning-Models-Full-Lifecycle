@@ -12,6 +12,9 @@
      * Collected data may have issues: Missing values, duplicated data, invalid data, noise, unbalance data
  
  ## Step 3: Data Analysis (Feature Selection)
+ * Selection of analytical techniques
+ * Building Models
+ * Review the result
  
  ## Step 4: Train Model and Test Model ([ML Model](https://github.com/puran-debugger/Python-for-Data-Science-and-Machine-Learning-Bootcamp))
  * train the model using various machine learning algorithms

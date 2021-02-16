@@ -1,5 +1,5 @@
 # Machine-Learning-Models-Full-Lifecycle
- Developing full lifecycle machine learning pipline
+ Developing full lifecycle machine learning pipeline
  
 ##  Step 1: Gathering Data
 * Identify varoious data sources
@@ -35,7 +35,7 @@ __Build Machine Learning Model APIs__: By deploying models, other systems can se
 
 #### 6. Serving the Model via REST API
 
-#### 7. Continuous Intergration and Deeploymenet Pipelinees
+#### 7. Continuous Integration and Deployment Pipelines
 
 #### 8. Differential Testing
 
